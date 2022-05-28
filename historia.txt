@@ -3,4 +3,4 @@ historia de algo que hace otro algo
 texto que es una gueonada
 y ya no uses var usa let
 
-etcetera...
+etcetera no esto continua joder.
